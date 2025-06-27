@@ -1,20 +1,26 @@
 export const educations = [
   {
     id: 1,
-    title: "Bachelor Degree",
-    duration: "2020 - Present",
-    institution: "National University of Bangladesh",
+    title: "Master of Computer Applications (MCA)",
+    duration: "2015 - 2018",
+    institution: "Adhiyamaan College of Engineering, Hosur",
   },
   {
     id: 2,
-    title: "Higher Secondary Certificate",
-    duration: "2018 - 2020",
-    institution: "Noakhali Islamia Kamil Madrasah",
+    title: "Bachelor of Science (B.Sc)",
+    duration: "2012 - 2015",
+    institution: "Government Arts College, Salem-7",
   },
   {
     id: 3,
-    title: "Secondary School Certificate",
-    duration: "2008 - 2018",
-    institution: "Baitus Saif Islamia Madrasah",
+    title: "Higher Secondary School (HSC)",
+    duration: "2010 - 2012",
+    institution: "Government Boys Higher Secondary School, Uthangarai",
+  },
+  {
+    id: 4,
+    title: "Secondary School Leaving Certificate (SSLC)",
+    duration: "2010",
+    institution: "Government High School, Konapatti",
   }
-]
+];
