@@ -28,12 +28,12 @@ export const projectsData = [
   },
   {
     id: 4,
-    name: 'Vinefera',
+    name: 'Vinobridge',
     description: "Vinefera is a wine business platform targeting the U.S. market. I contributed to developing core modules of the application, focusing on user experience, product catalog, and e-commerce features. The platform handles customer subscriptions, wine product listings, and seamless checkout.",
     tools: ['NextJS', 'NodeJS', 'TypeScript', 'Stripe', 'MongoDB'],
     role: 'Frontend Developer',
     code: '',
-    demo: 'https://viniferavn.com/',
+    demo: 'https://vinobridge.io/',
   },
   {
     id: 5,
