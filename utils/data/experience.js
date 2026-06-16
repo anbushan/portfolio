@@ -1,7 +1,7 @@
 export const experiences = [
   {
     id: 1,
-    title: 'Technical Specialist',
+    title: 'Technical Lead',
     company: "InfoVision Labs India Private Limited.",
     duration: "(July 2024 - Present)"
   },
